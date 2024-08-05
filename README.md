@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 
-- 💬 Ask me about **html5,css3,react,tawilwind,bootstrap**
+- 💬 Ask me about **html5,css3,react,tawilwind,javascript**
 
 - 📫 How to reach me **ali.tradding021@gmail.com**
 
