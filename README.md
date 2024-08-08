@@ -29,4 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhazaeii&" alt="alikhazaeii" /></p>
 
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kamanga&layout=compact&theme=dracula&hide=html&langs_count=10)
 
