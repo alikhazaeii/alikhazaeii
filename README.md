@@ -29,4 +29,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikhazaeii&" alt="alikhazaeii" /></p>
 
+ [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alikhazaeii&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+[![Ali khazaei's current streak](https://streak-stats.demolab.com/?user=alikhazaeii&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
