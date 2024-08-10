@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Ali Khazaei+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center" font-size='25px'>Languages and Tools:</h3>
 
 <table align="center">
   <tr>
