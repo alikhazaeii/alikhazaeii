@@ -1,16 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Ali Khazaei+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=hiyaamalik&theme=neon" alt="GitHub Streak Stats" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hiyaamalik&theme=neon" alt="GitHub Stats">
-      </td>
-  </tr>
-</table>
+![Now Open! (1)](https://github.com/hiyaamalik/hiyaamalik/assets/142331596/53f854f5-ca42-4b86-827a-fdd35ff13ebc)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhazaeii&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
