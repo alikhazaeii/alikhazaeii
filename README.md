@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Ali Khazaei+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
@@ -61,9 +62,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 💬 Ask me about **html5,css3,react,tawilwind,javascript**
-
-- 📫 How to reach me **ali.tradding021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
