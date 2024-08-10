@@ -3,7 +3,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alikhazaeii&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
-<h3 align="center" font-size='25px'>Languages and Tools:</h3>
+<h3 align="center" font-size='25px'>My favorite tools and technologies</h3>
 
 <table align="center">
   <tr>
