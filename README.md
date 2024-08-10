@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Ali Khazaei+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alikhazaeii&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
 <h3 align="center" font-size='25px'>Languages and Tools:</h3>
 
@@ -51,11 +52,6 @@
   
   </tr>
 </table>
-
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alikhazaeii&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
