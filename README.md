@@ -55,7 +55,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaeii&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaeii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
  [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
