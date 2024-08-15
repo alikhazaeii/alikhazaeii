@@ -54,7 +54,6 @@
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 
-  https://github-profile-trophy.vercel.app/?alikhazaii=ryo-ma&theme=onestar
  [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alikhazaeii&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
