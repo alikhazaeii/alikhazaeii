@@ -53,11 +53,8 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" theme=onestar /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaii-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center"> <a (https://github-profile-trophy.vercel.app/?username=alikhazaii-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) /></a> </p>
 
 
  [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
