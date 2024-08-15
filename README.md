@@ -53,7 +53,6 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaeii&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
