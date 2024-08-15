@@ -55,7 +55,7 @@
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii" alt="alikhazaeii" ma&them=onestar /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhazaeii-ma&them=onestar" alt="alikhazaeii"  /></a> </p>
 
 
  [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
