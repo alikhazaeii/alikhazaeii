@@ -67,3 +67,5 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alikhazaeii=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
