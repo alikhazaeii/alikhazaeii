@@ -60,10 +60,9 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alikhazaeii&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
- [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=alikhazaeii&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=alikhazaeii&theme=highcontrast)](https://git.io/streak-stats)
 [![Ali khazaei's current streak](https://streak-stats.demolab.com/?user=alikhazaeii&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alikhazaeii&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alikhazaeii&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
