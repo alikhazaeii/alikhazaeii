@@ -53,8 +53,8 @@
   </tr>
 </table>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaeii&theme=chartreuse-dark)](https://github.com/ryo-ma/github-profile-trophy)
+darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=alikhazaeii&theme=darkkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
  [![Ali's github stats](https://bad-apple-github-readme.vercel.app/api?username=alikhazaeii&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
